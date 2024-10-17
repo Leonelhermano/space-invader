@@ -16,11 +16,11 @@ public class Player : MonoBehaviour
     {
         Vector3 position = transform.position;
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.A))
         {
             position.x -= speed * Time.deltaTime;
         }
-        else if (Input.GetKey(KeyCode.RightArrow))
+        else if (Input.GetKey(KeyCode.D))
         {
             position.x += speed * Time.deltaTime;
         }
@@ -29,7 +29,7 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && laser == null)
         {
-            laser = Instantiate(laserPrefab, transform.position, Quaternion.identity);
+            laser = Instantiate(laserPrefab, transform.position + new Vector3(0,1,0), Quaternion.identity);
         }
     }
 
