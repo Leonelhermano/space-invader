@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: dc07bce1cad1af94ea0b1f2c4419b61f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: yellow tree_Frame_0
+    originalName: 
+    pivot: {x: 0.45801526, y: -0.025974026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 262
+      height: 385
+    spriteID: 3c6e2e5f54265e3409e630e3a2242e61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: yellow tree_Frame_1
+    originalName: 
+    pivot: {x: 0.45801526, y: -0.025974026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 397
+      width: 262
+      height: 385
+    spriteID: 4900d4315fa14e74cb92d58afad0b2e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 397}
+  - name: yellow tree_Frame_2
+    originalName: 
+    pivot: {x: 0.4597701, y: -0.025906736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1576
+      width: 261
+      height: 386
+    spriteID: 4c30e715883168d498d67141a0b1d9fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1576}
+  - name: yellow tree_Frame_3
+    originalName: 
+    pivot: {x: 0.4597701, y: -0.025906736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 4
+      width: 261
+      height: 386
+    spriteID: cdade3b77b3dfdf459a7c9cf6f1f1569
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 4}
+  - name: yellow tree_Frame_4
+    originalName: 
+    pivot: {x: 0.4612403, y: -0.025839794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 1186
+      width: 258
+      height: 387
+    spriteID: 73a8a84d24c8fc84abb3a5a9c2c0b0c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 1186}
+  - name: yellow tree_Frame_5
+    originalName: 
+    pivot: {x: 0.4612403, y: -0.025839794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 1581
+      width: 258
+      height: 387
+    spriteID: a9865dca4fedb6443bfdcdf7aa0b59aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 1581}
+  - name: yellow tree_Frame_6
+    originalName: 
+    pivot: {x: 0.4612403, y: -0.025839794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 4
+      width: 258
+      height: 387
+    spriteID: 7339075363b1bf641b6cabc6649c1bfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 4}
+  - name: yellow tree_Frame_7
+    originalName: 
+    pivot: {x: 0.4606299, y: -0.025906736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 1189
+      width: 254
+      height: 386
+    spriteID: 6ed601ef809b6124099b267c8b2f8dfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 1189}
+  - name: yellow tree_Frame_8
+    originalName: 
+    pivot: {x: 0.4606299, y: -0.025906736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 1583
+      width: 254
+      height: 386
+    spriteID: bfb1a61f97cc96242a3c05227f953af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 1583}
+  - name: yellow tree_Frame_9
+    originalName: 
+    pivot: {x: 0.4612403, y: -0.025839794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 399
+      width: 258
+      height: 387
+    spriteID: 5964d2944d7a7914f9cd1a679275fa04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 399}
+  - name: yellow tree_Frame_10
+    originalName: 
+    pivot: {x: 0.4612403, y: -0.025839794}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 794
+      width: 258
+      height: 387
+    spriteID: 6344cc1bc8f0897419d2a3ab0b05476d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 794}
+  - name: yellow tree_Frame_11
+    originalName: 
+    pivot: {x: 0.4597701, y: -0.025906736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 398
+      width: 261
+      height: 386
+    spriteID: 928f81f5292a6984fb4f4175be7c5ee0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 398}
+  - name: yellow tree_Frame_12
+    originalName: 
+    pivot: {x: 0.4597701, y: -0.025906736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 792
+      width: 261
+      height: 386
+    spriteID: f4e87df7117b1644a85ab2bc7bb5e5b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 792}
+  - name: yellow tree_Frame_13
+    originalName: 
+    pivot: {x: 0.45801526, y: -0.025974026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 790
+      width: 262
+      height: 385
+    spriteID: f094a81ee0c872441a035ffe8e08cbca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 790}
+  - name: yellow tree_Frame_14
+    originalName: 
+    pivot: {x: 0.45801526, y: -0.025974026}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1183
+      width: 262
+      height: 385
+    spriteID: 64036fd9a6262b84da03db5940f972d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1183}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1231971150
+    name: yellow tree
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: yellow tree_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 30
+        y: 10
+        width: 262
+        height: 385
+      spriteId: 3c6e2e5f54265e3409e630e3a2242e61
+    - name: yellow tree_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 30
+        y: 10
+        width: 262
+        height: 385
+      spriteId: 4900d4315fa14e74cb92d58afad0b2e8
+    - name: yellow tree_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 30
+        y: 10
+        width: 261
+        height: 386
+      spriteId: 4c30e715883168d498d67141a0b1d9fc
+    - name: yellow tree_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 30
+        y: 10
+        width: 261
+        height: 386
+      spriteId: cdade3b77b3dfdf459a7c9cf6f1f1569
+    - name: yellow tree_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 31
+        y: 10
+        width: 258
+        height: 387
+      spriteId: 73a8a84d24c8fc84abb3a5a9c2c0b0c0
+    - name: yellow tree_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 31
+        y: 10
+        width: 258
+        height: 387
+      spriteId: a9865dca4fedb6443bfdcdf7aa0b59aa
+    - name: yellow tree_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 31
+        y: 10
+        width: 258
+        height: 387
+      spriteId: 7339075363b1bf641b6cabc6649c1bfd
+    - name: yellow tree_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 33
+        y: 10
+        width: 254
+        height: 386
+      spriteId: 6ed601ef809b6124099b267c8b2f8dfd
+    - name: yellow tree_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 33
+        y: 10
+        width: 254
+        height: 386
+      spriteId: bfb1a61f97cc96242a3c05227f953af5
+    - name: yellow tree_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 31
+        y: 10
+        width: 258
+        height: 387
+      spriteId: 5964d2944d7a7914f9cd1a679275fa04
+    - name: yellow tree_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 31
+        y: 10
+        width: 258
+        height: 387
+      spriteId: 6344cc1bc8f0897419d2a3ab0b05476d
+    - name: yellow tree_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 30
+        y: 10
+        width: 261
+        height: 386
+      spriteId: 928f81f5292a6984fb4f4175be7c5ee0
+    - name: yellow tree_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 30
+        y: 10
+        width: 261
+        height: 386
+      spriteId: f4e87df7117b1644a85ab2bc7bb5e5b2
+    - name: yellow tree_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 30
+        y: 10
+        width: 262
+        height: 385
+      spriteId: f094a81ee0c872441a035ffe8e08cbca
+    - name: yellow tree_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 30
+        y: 10
+        width: 262
+        height: 385
+      spriteId: 64036fd9a6262b84da03db5940f972d6
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 300, y: 400}
