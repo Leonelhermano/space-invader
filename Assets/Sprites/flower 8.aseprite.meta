@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: c414757dcf111c344aa6429b082f8483
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: flower 8_Frame_0
+    originalName: 
+    pivot: {x: 0.625, y: -0.19512194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 102
+      width: 32
+      height: 41
+    spriteID: 3caf86162c5d7a44d895efc9d2e65ea4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 102}
+  - name: flower 8_Frame_1
+    originalName: 
+    pivot: {x: 0.625, y: -0.19512194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 151
+      width: 32
+      height: 41
+    spriteID: 7b49a1e2aeec6d046b813757e10b1dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 151}
+  - name: flower 8_Frame_2
+    originalName: 
+    pivot: {x: 0.59375, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 200
+      width: 32
+      height: 40
+    spriteID: ca1b587ae34d75847b53091c497bc4b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 200}
+  - name: flower 8_Frame_3
+    originalName: 
+    pivot: {x: 0.59375, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 248
+      width: 32
+      height: 40
+    spriteID: 88887f0a3cb7d9243b39edf12295c9b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 248}
+  - name: flower 8_Frame_4
+    originalName: 
+    pivot: {x: 0.5625, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 200
+      width: 32
+      height: 41
+    spriteID: 23d1e80ab73500248817c231662e2e4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 200}
+  - name: flower 8_Frame_5
+    originalName: 
+    pivot: {x: 0.5625, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 249
+      width: 32
+      height: 41
+    spriteID: fcd11c2099748d24ead8909c638e0506
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 249}
+  - name: flower 8_Frame_6
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 200
+      width: 33
+      height: 41
+    spriteID: c366a1a90c585f8408309b3e2e68cb4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 200}
+  - name: flower 8_Frame_7
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 249
+      width: 33
+      height: 41
+    spriteID: b9a5a794916115f4fbfe1540f4104897
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 249}
+  - name: flower 8_Frame_8
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 298
+      width: 33
+      height: 41
+    spriteID: 3aa50d1b26cc7b04aae14fb033443a50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 298}
+  - name: flower 8_Frame_9
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 33
+      height: 41
+    spriteID: 4ea90c917ebf1f14b9180405f56dd572
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 347}
+  - name: flower 8_Frame_10
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 34
+      height: 41
+    spriteID: fb70f7de3f8d6a04f89972ce5f440b4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: flower 8_Frame_11
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 34
+      height: 41
+    spriteID: 3b2d82b95afa35c4886c539913d15032
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 53}
+  - name: flower 8_Frame_12
+    originalName: 
+    pivot: {x: 0.53125, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 298
+      width: 32
+      height: 41
+    spriteID: f765a8becdf8d9249b8ca73955c96a76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 298}
+  - name: flower 8_Frame_13
+    originalName: 
+    pivot: {x: 0.53125, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 347
+      width: 32
+      height: 41
+    spriteID: cdc918f726e13cc44a114e1136ce3443
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 347}
+  - name: flower 8_Frame_14
+    originalName: 
+    pivot: {x: 0.516129, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 392
+      width: 31
+      height: 41
+    spriteID: 8b270767e0fdbc649bf8603a28caac2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 392}
+  - name: flower 8_Frame_15
+    originalName: 
+    pivot: {x: 0.516129, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 441
+      width: 31
+      height: 41
+    spriteID: b5bd86ef768762244af0e3893546bcbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 441}
+  - name: flower 8_Frame_16
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.21052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 102
+      width: 29
+      height: 38
+    spriteID: b3c1d14372f5a954bb1d9234bc1ecc4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 102}
+  - name: flower 8_Frame_17
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.21052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 148
+      width: 29
+      height: 38
+    spriteID: 3727f8dc639040e419a8f0b86f6f0f1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 148}
+  - name: flower 8_Frame_18
+    originalName: 
+    pivot: {x: 0.4137931, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 286
+      width: 29
+      height: 37
+    spriteID: b12fff55e68ae8340a93189a167cbaf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 286}
+  - name: flower 8_Frame_19
+    originalName: 
+    pivot: {x: 0.4137931, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 331
+      width: 29
+      height: 37
+    spriteID: 442a82ff1817add4f8a0de443031f60f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 331}
+  - name: flower 8_Frame_20
+    originalName: 
+    pivot: {x: 0.4137931, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 376
+      width: 29
+      height: 37
+    spriteID: 7e598a8b1a4a96f4786a30ad29f1cd4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 376}
+  - name: flower 8_Frame_21
+    originalName: 
+    pivot: {x: 0.4137931, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 421
+      width: 29
+      height: 37
+    spriteID: 541171e634b6d4341ac651531f4ef816
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 421}
+  - name: flower 8_Frame_22
+    originalName: 
+    pivot: {x: 0.4137931, y: -0.21621622}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 466
+      width: 29
+      height: 37
+    spriteID: f947a68314db2cd4991ed06b5bc2926a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 466}
+  - name: flower 8_Frame_23
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.21052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 194
+      width: 29
+      height: 38
+    spriteID: 4dccddc28e02682478794863fa5f3c67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 194}
+  - name: flower 8_Frame_24
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.21052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 240
+      width: 29
+      height: 38
+    spriteID: 8f937a3f89b4e8f4a8e1dacf4b36fe16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 240}
+  - name: flower 8_Frame_25
+    originalName: 
+    pivot: {x: 0.516129, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 4
+      width: 31
+      height: 41
+    spriteID: 66475b3b3cd703045b62235f78d386ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 4}
+  - name: flower 8_Frame_26
+    originalName: 
+    pivot: {x: 0.516129, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 53
+      width: 31
+      height: 41
+    spriteID: 0ff7058bb3de5e24387c03c093ea2e38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 53}
+  - name: flower 8_Frame_27
+    originalName: 
+    pivot: {x: 0.53125, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 396
+      width: 32
+      height: 41
+    spriteID: 41eb715ae5a09fd4ba77b8df03dc8afc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 396}
+  - name: flower 8_Frame_28
+    originalName: 
+    pivot: {x: 0.53125, y: -0.14634146}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 445
+      width: 32
+      height: 41
+    spriteID: 0282073a76dc5314582dd98243951361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 445}
+  - name: flower 8_Frame_29
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 102
+      width: 34
+      height: 41
+    spriteID: 7275e5f14ee989f41b88a2384a8675f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 102}
+  - name: flower 8_Frame_30
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 151
+      width: 34
+      height: 41
+    spriteID: 144811936c6475d4a912762c0598ae3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 151}
+  - name: flower 8_Frame_31
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 396
+      width: 33
+      height: 41
+    spriteID: 68cbd844479b30c46954e66b5d7dad40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 396}
+  - name: flower 8_Frame_32
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 445
+      width: 33
+      height: 41
+    spriteID: a57790f810e954f46999e36b46083a86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 445}
+  - name: flower 8_Frame_33
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 4
+      width: 33
+      height: 41
+    spriteID: 1b0cb9e98023c0c4dba252e233e95f0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 4}
+  - name: flower 8_Frame_34
+    originalName: 
+    pivot: {x: 0.5757576, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 53
+      width: 33
+      height: 41
+    spriteID: 2ddaf63a243dab04b88af87db26a80e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 53}
+  - name: flower 8_Frame_35
+    originalName: 
+    pivot: {x: 0.5625, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 4
+      width: 32
+      height: 41
+    spriteID: 03f8b046675b29f459506dd23a2c1dc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 4}
+  - name: flower 8_Frame_36
+    originalName: 
+    pivot: {x: 0.5625, y: -0.1707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 53
+      width: 32
+      height: 41
+    spriteID: a203a24f7cfd59e47972ed700671a728
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 53}
+  - name: flower 8_Frame_37
+    originalName: 
+    pivot: {x: 0.59375, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 296
+      width: 32
+      height: 40
+    spriteID: fc01da4616585c841b1712c1b14be0e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 296}
+  - name: flower 8_Frame_38
+    originalName: 
+    pivot: {x: 0.59375, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 344
+      width: 32
+      height: 40
+    spriteID: 00881037c4a76e94199390cf43a986ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 344}
+  - name: flower 8_Frame_39
+    originalName: 
+    pivot: {x: 0.625, y: -0.19512194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 102
+      width: 32
+      height: 41
+    spriteID: fb2a1cc8c966a164fad21fabc41358b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 102}
+  - name: flower 8_Frame_40
+    originalName: 
+    pivot: {x: 0.625, y: -0.19512194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 151
+      width: 32
+      height: 41
+    spriteID: 1ec7b13ad4b31794486351025a484808
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 151}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2063975785
+    name: flower 8
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: flower 8_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 12
+        y: 8
+        width: 32
+        height: 41
+      spriteId: 3caf86162c5d7a44d895efc9d2e65ea4
+    - name: flower 8_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 12
+        y: 8
+        width: 32
+        height: 41
+      spriteId: 7b49a1e2aeec6d046b813757e10b1dab
+    - name: flower 8_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 13
+        y: 8
+        width: 32
+        height: 40
+      spriteId: ca1b587ae34d75847b53091c497bc4b0
+    - name: flower 8_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 13
+        y: 8
+        width: 32
+        height: 40
+      spriteId: 88887f0a3cb7d9243b39edf12295c9b6
+    - name: flower 8_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 14
+        y: 7
+        width: 32
+        height: 41
+      spriteId: 23d1e80ab73500248817c231662e2e4f
+    - name: flower 8_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 14
+        y: 7
+        width: 32
+        height: 41
+      spriteId: fcd11c2099748d24ead8909c638e0506
+    - name: flower 8_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: c366a1a90c585f8408309b3e2e68cb4a
+    - name: flower 8_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: b9a5a794916115f4fbfe1540f4104897
+    - name: flower 8_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: 3aa50d1b26cc7b04aae14fb033443a50
+    - name: flower 8_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: 4ea90c917ebf1f14b9180405f56dd572
+    - name: flower 8_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 13
+        y: 7
+        width: 34
+        height: 41
+      spriteId: fb70f7de3f8d6a04f89972ce5f440b4f
+    - name: flower 8_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 13
+        y: 7
+        width: 34
+        height: 41
+      spriteId: 3b2d82b95afa35c4886c539913d15032
+    - name: flower 8_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 15
+        y: 6
+        width: 32
+        height: 41
+      spriteId: f765a8becdf8d9249b8ca73955c96a76
+    - name: flower 8_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 15
+        y: 6
+        width: 32
+        height: 41
+      spriteId: cdc918f726e13cc44a114e1136ce3443
+    - name: flower 8_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 16
+        y: 6
+        width: 31
+        height: 41
+      spriteId: 8b270767e0fdbc649bf8603a28caac2e
+    - name: flower 8_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 16
+        y: 6
+        width: 31
+        height: 41
+      spriteId: b5bd86ef768762244af0e3893546bcbc
+    - name: flower 8_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 18
+        y: 8
+        width: 29
+        height: 38
+      spriteId: b3c1d14372f5a954bb1d9234bc1ecc4a
+    - name: flower 8_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 18
+        y: 8
+        width: 29
+        height: 38
+      spriteId: 3727f8dc639040e419a8f0b86f6f0f1c
+    - name: flower 8_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 20
+        y: 8
+        width: 29
+        height: 37
+      spriteId: b12fff55e68ae8340a93189a167cbaf3
+    - name: flower 8_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 20
+        y: 8
+        width: 29
+        height: 37
+      spriteId: 442a82ff1817add4f8a0de443031f60f
+    - name: flower 8_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 20
+        y: 8
+        width: 29
+        height: 37
+      spriteId: 7e598a8b1a4a96f4786a30ad29f1cd4a
+    - name: flower 8_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 20
+        y: 8
+        width: 29
+        height: 37
+      spriteId: 541171e634b6d4341ac651531f4ef816
+    - name: flower 8_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 20
+        y: 8
+        width: 29
+        height: 37
+      spriteId: f947a68314db2cd4991ed06b5bc2926a
+    - name: flower 8_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 18
+        y: 8
+        width: 29
+        height: 38
+      spriteId: 4dccddc28e02682478794863fa5f3c67
+    - name: flower 8_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 18
+        y: 8
+        width: 29
+        height: 38
+      spriteId: 8f937a3f89b4e8f4a8e1dacf4b36fe16
+    - name: flower 8_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 16
+        y: 6
+        width: 31
+        height: 41
+      spriteId: 66475b3b3cd703045b62235f78d386ba
+    - name: flower 8_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 16
+        y: 6
+        width: 31
+        height: 41
+      spriteId: 0ff7058bb3de5e24387c03c093ea2e38
+    - name: flower 8_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 15
+        y: 6
+        width: 32
+        height: 41
+      spriteId: 41eb715ae5a09fd4ba77b8df03dc8afc
+    - name: flower 8_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 15
+        y: 6
+        width: 32
+        height: 41
+      spriteId: 0282073a76dc5314582dd98243951361
+    - name: flower 8_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 13
+        y: 7
+        width: 34
+        height: 41
+      spriteId: 7275e5f14ee989f41b88a2384a8675f2
+    - name: flower 8_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 13
+        y: 7
+        width: 34
+        height: 41
+      spriteId: 144811936c6475d4a912762c0598ae3e
+    - name: flower 8_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: 68cbd844479b30c46954e66b5d7dad40
+    - name: flower 8_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: a57790f810e954f46999e36b46083a86
+    - name: flower 8_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: 1b0cb9e98023c0c4dba252e233e95f0e
+    - name: flower 8_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 13
+        y: 7
+        width: 33
+        height: 41
+      spriteId: 2ddaf63a243dab04b88af87db26a80e2
+    - name: flower 8_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 14
+        y: 7
+        width: 32
+        height: 41
+      spriteId: 03f8b046675b29f459506dd23a2c1dc7
+    - name: flower 8_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 14
+        y: 7
+        width: 32
+        height: 41
+      spriteId: a203a24f7cfd59e47972ed700671a728
+    - name: flower 8_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 13
+        y: 8
+        width: 32
+        height: 40
+      spriteId: fc01da4616585c841b1712c1b14be0e9
+    - name: flower 8_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 13
+        y: 8
+        width: 32
+        height: 40
+      spriteId: 00881037c4a76e94199390cf43a986ab
+    - name: flower 8_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 12
+        y: 8
+        width: 32
+        height: 41
+      spriteId: fb2a1cc8c966a164fad21fabc41358b5
+    - name: flower 8_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 12
+        y: 8
+        width: 32
+        height: 41
+      spriteId: 1ec7b13ad4b31794486351025a484808
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
