@@ -135,5 +135,14 @@ public class Invaders : MonoBehaviour
         Vector3 position = transform.position;
         position.y -= 1f;
         transform.position = position;
+        Vector3 scale = transform.localScale;
+
+        // Invert the X scale to flip horizontally
+        scale.x *= -1;
+
+        // Apply the new scale back to the transform
+        transform.localScale = scale;
+
+
     }
 }
