@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(BoxCollider2D))]
@@ -38,6 +38,8 @@ public class Player : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer("Missile") || collision.gameObject.layer == LayerMask.NameToLayer("Invader"))
         {
             GameManager.Instance.OnPlayerKilled(this);
+            SceneManager.LoadScene(1);
+
         }
     }
 }
