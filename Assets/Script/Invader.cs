@@ -12,6 +12,7 @@ public class Invader : MonoBehaviour
 {
     public Sprite[] animationSprites = new Sprite[2];
     public float animationTime;
+    public GameObject prefabToSpawn;
 
     SpriteRenderer spRend;
     int animationFrame;
@@ -44,6 +45,8 @@ public class Invader : MonoBehaviour
     {
         if(collision.gameObject.layer == LayerMask.NameToLayer("Laser"))
         {
+
+            Instantiate(prefabToSpawn, transform.position, transform.rotation);
             GameManager.Instance.OnInvaderKilled(this);
         }
         else if(collision.gameObject.layer == LayerMask.NameToLayer("Boundary")) //nått nedre kanten
