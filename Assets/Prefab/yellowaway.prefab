@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 3700894588612803306}
   - component: {fileID: 3611711699095715528}
   - component: {fileID: -1117185755614885319}
-  - component: {fileID: 4077168968694361546}
+  - component: {fileID: -3038476325978859587}
   m_Layer: 0
-  m_Name: Enemy_Bird_2
+  m_Name: yellowaway
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -159,7 +159,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 6.4, y: 6.4}
   m_EdgeRadius: 0
---- !u!114 &4077168968694361546
+--- !u!114 &-3038476325978859587
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -168,11 +168,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 4259731353220365432}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a7a4c63574f12f40a99907bd286ed2f, type: 3}
+  m_Script: {fileID: 11500000, guid: 38183bc2e5bad464b8476a0a86472318, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationSprites:
-  - {fileID: 21300000, guid: ab0f2925e02b2b84d969197d3765a803, type: 3}
-  - {fileID: 21300000, guid: 6a6c6ed242d5892488203e3f786ed2d5, type: 3}
-  animationTime: 0.7
-  prefabToSpawn: {fileID: 4259731353220365432, guid: 70b23c17dcf240743a3844755e8de13f, type: 3}

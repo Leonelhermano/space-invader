@@ -175,3 +175,4 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2c6d5271a85d17643abe809828fbf873, type: 3}
   - {fileID: 21300000, guid: e356c89c84132df4892dbe57bc066c2c, type: 3}
   animationTime: 0.5
+  prefabToSpawn: {fileID: 8644074600632427470, guid: f8697c85b33333e45a7fc8cba1806847, type: 3}
