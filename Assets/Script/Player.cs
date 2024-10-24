@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     public Laser laserPrefab;
     Laser laser;
     float speed = 5f;
+    public int hp = 3;
 
     // Update is called once per frame
     void Update()
@@ -37,8 +38,13 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.layer == LayerMask.NameToLayer("Missile") || collision.gameObject.layer == LayerMask.NameToLayer("Invader"))
         {
-            GameManager.Instance.OnPlayerKilled(this);
-            SceneManager.LoadScene(1);
+
+            hp -= 1;
+            if (hp == 0)
+            {
+                SceneManager.LoadScene(1);
+            }
+            
 
         }
     }
