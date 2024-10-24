@@ -429,7 +429,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1371763486591264672, guid: ce11e853d1fceaa4e8be64eed8bc3d83, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.194145
+      value: -16.54
       objectReference: {fileID: 0}
     - target: {fileID: 1371763486591264672, guid: ce11e853d1fceaa4e8be64eed8bc3d83, type: 3}
       propertyPath: m_LocalPosition.y
@@ -611,7 +611,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5483886155837667535, guid: a063bff59fb3127409bd52cadc364fba, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.161711
+      value: -16.507566
       objectReference: {fileID: 0}
     - target: {fileID: 5483886155837667535, guid: a063bff59fb3127409bd52cadc364fba, type: 3}
       propertyPath: m_LocalPosition.y
@@ -665,6 +665,7 @@ GameObject:
   - component: {fileID: 2011441708}
   - component: {fileID: 2011441707}
   - component: {fileID: 2011441706}
+  - component: {fileID: 2011441709}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -690,7 +691,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.060555354, g: 0.11405007, b: 0.1981132, a: 0}
+  m_BackGroundColor: {r: 0.03459108, g: 1, b: 0.9663906, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -746,6 +747,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2011441709
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2011441705}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a729dfd70e8f0664789a04c7004cde52, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &7058505812264389608
 PrefabInstance:
   m_ObjectHideFlags: 0
